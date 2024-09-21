@@ -1,6 +1,6 @@
 # Financial Statements Analysis
 
-Overview: This project involved a comprehensive financial analysis of companies in the IT sector, using data from their annual reports and financial statements. The goal was to assess the financial health of the companies, evaluate their stock performance, and provide insights into their financial management and market standing. I used Excel to perform the analysis, including calculating financial ratios and conducting a DuPont analysis. The project culminated in a professional report summarizing the key findings, supported by data visualizations.
+__Project Overview:__ This project involved a comprehensive financial analysis of companies in the IT sector, using data from their annual reports and financial statements. The goal was to assess the financial health of the companies, evaluate their stock performance, and provide insights into their financial management and market standing. I used Excel to perform the analysis, including calculating financial ratios and conducting a DuPont analysis. The project culminated in a professional report summarizing the key findings, supported by data visualizations.
 
 __Steps Involved:__  
 
