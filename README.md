@@ -45,4 +45,3 @@ Pie charts for visualizing revenue sources and cost structures.<br>
 __Report and Interpretation:<br>__
 
 The findings from the financial analysis were compiled into a professional report. The report included interpretations of each financial ratio, an evaluation of the companies’ financial health, and insights from the DuPont analysis. Additionally, I provided an overview of stock market performance and how it reflected the companies’ financial metrics.
-The report also highlighted areas of strength and potential risks for each company, offering recommendations for improvement.
