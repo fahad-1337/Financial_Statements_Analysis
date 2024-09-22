@@ -20,7 +20,7 @@ Assessed the firms’ cash-generating capabilities, focusing on operational, inv
 
 __Financial Ratio Calculation:<br>__
 
-Using Excel, I calculated a variety of key financial ratios to measure different aspects of the companies' financial performance. These included:
+Using Excel, I calculated a variety of key financial ratios to measure different aspects of the companies' financial performance. These included:<br>
 Liquidity Ratios: Current ratio, quick ratio to assess short-term financial health.<br>
 Profitability Ratios: Gross margin, operating margin, return on assets (ROA), return on equity (ROE) to evaluate operational efficiency.<br>
 Efficiency Ratios: Asset turnover, inventory turnover to measure how efficiently the firms used their assets.<br>
