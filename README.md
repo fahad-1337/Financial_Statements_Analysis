@@ -30,9 +30,10 @@ Leverage Ratios: Debt-to-equity ratio, interest coverage ratio to determine the 
 __DuPont Analysis:<br>__
 
 I performed a detailed DuPont analysis to break down the return on equity (ROE) into three components: profit margin, asset turnover, and financial leverage. This helped me identify the factors driving ROE and provided deeper insights into the companies’ financial performance.
-Stock Performance Analysis:<br>
 
-I analyzed the historical stock price data of the companies, using Excel to track and compare their performance over a specified period. This analysis provided insights into how the companies were performing in the market, and whether their financial fundamentals were aligned with stock market trends.
+**Stock Performance Analysis:** <br>
+
+I analyzed the historical stock price data of the companies, to track and compare their performance over a specified period. This analysis provided insights into how the companies were performing in the market, and whether their financial fundamentals were aligned with stock market trends.
 
 __Data Visualization:<br>__
 
